@@ -1,5 +1,5 @@
 {
-  "name": "do-vue",
+  "name": "lou-do-vue",
   "version": "1.0.0",
   "description": "Custom Vue templates & resources for DigitalOcean Community tools.",
   "main": "src/cli.js",
@@ -28,7 +28,7 @@
   "dependencies": {
     "assert": "^2.0.0",
     "babel-loader": "^8.2.3",
-    "browserify-fs": "git+https://github.com/do-community/browserify-fs.git",
+    "browserify-fs": "^1.0.0",
     "buffer": "^6.0.3",
     "constants-browserify": "^1.0.0",
     "css-loader": "^6.6.0",
